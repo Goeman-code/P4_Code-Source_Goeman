@@ -14,10 +14,14 @@ button {
 }
 
 .icone-reso {
-    color: #404040!important;
+    color: #000000!important;
 }
 .couleur-p {
     color: white!important;
+}
+.couleur-loca-footer {
+    color: #000000!important;
+    font-weight: 600;
 }
 
 a:hover {
