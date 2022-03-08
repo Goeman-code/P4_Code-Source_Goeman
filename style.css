@@ -14,7 +14,7 @@ button {
 }
 
 .icone-reso {
-    color: #404040!important;
+    color: #000000!important;
 }
 .couleur-p {
     color: white!important;
@@ -316,6 +316,8 @@ a:hover {
 
 .navbar-brand img {
     max-height: 40px;
+    height: 40px;
+    width: 214px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -822,6 +824,9 @@ h4 {
 
 .dark-grey {
     color: #404040!important;
+}
+.black {
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
